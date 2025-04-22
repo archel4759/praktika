@@ -1,0 +1,19 @@
+!pip  install patchify
+!pip install rasterio
+!pip install imageio
+!pip install imagecodecs
+!pip install --upgrade tifffile
+!pip install Flask
+!pip install py7zr
+!rm -rf MyDrive
+!pip install opencv-python
+!pip install fiona
+!pip install scipy
+!pip install py7zr
+!pip install pyodbc
+!pip install bcrypt
+!pip install pyngrok
+!pip uninstall -y numpy
+!pip uninstall -y tensorflow
+!pip install numpy==1.26.4
+!pip install tensorflow==2.14.0
